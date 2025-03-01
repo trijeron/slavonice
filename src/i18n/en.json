@@ -63,9 +63,11 @@
         "standard": "Standard",
         "extra": "Extra",
         "premium": "Premium",
-        "extra_bed": "Extra bed"
+        "extra_bed": "Extra bed",
+        "breakfast": "Breakfast",
+        "apartman": "Apartment"
       },
-      "price_note": "Prices are per room per night for 1 person/2 persons. Breakfast is not included. It's for 190 CZK per day.",
+      "price_note": "Prices are per room per night for 1 person/2 persons",
       "link": "http://www.besidka.cz"
     },
     "pivonka": {
@@ -101,7 +103,7 @@
         "extra": "upon agreement",
         "bed": "on agreement"
       },
-      "price_note": "Prices are per room per night.",
+      "price_note": "Unfortunately, Apartments Pod věží are not available this year, but the situation may change. They will be available again next year. We are preparing alternative accommodation in a new guesthouse in the alley behind Besídka.",
       "link": "https://www.apartmanypodvezi.cz/"
     },
     "recreational_house_slavonice": {

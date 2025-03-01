@@ -61,9 +61,11 @@
         "standard": "Standard",
         "extra": "Extra",
         "premium": "Premium",
-        "extra_bed": "Přistýlka"
+        "extra_bed": "Přistýlka",
+        "breakfast": "Snídaně",
+        "apartman": "Apartmán"
       },
-      "price_note": "Ceny za pokoj a noc při obsazení 1 os./ 2 os. Bohužel pokoje jsou bez snídaně. <b>Snídaně je za příplatek 190 Kč na den.</b>",
+      "price_note": "Ceny za pokoj a noc při obsazení 1&nbsp;os./ 2 os.",
       "link": "http://www.besidka.cz"
     },
     "pivonka": {
@@ -82,7 +84,7 @@
       "name": "Alfa*",
       "description": "Jednoduché ubytování v dolní části náměstí pro méně náročné. V nabídce jsou dvoulůžkové pokoje s příslušenstvím či dvou- a vícelůžkové pokoje s příslušenstvím společným pro celé patro.",
       "prices": {
-        "with_facilities": "Spříslušenstvím<",
+        "with_facilities": "S příslušenstvím",
         "without_facilities": "Bez příslušenství"
       },
       "price_note": "Ceny za osobu a noc.",
@@ -99,7 +101,7 @@
         "extra": "Přistýlka",
         "bed": "dle dohody"
       },
-      "price_note": "Ceny za pokoj a noc.",
+      "price_note": "Apartmány Pod věží letos bohužel nejsou k dispozici, situace se však může změnit. Příští rok opět budou. Připravujeme náhradní ubytování v novém penzionu v uličce za Besídkou.",
       "link": "https://www.apartmanypodvezi.cz/"
     },
     "recreational_house_slavonice": {
