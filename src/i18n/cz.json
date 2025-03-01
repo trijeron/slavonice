@@ -1,0 +1,172 @@
+{
+  "header": {
+    "title": "Slavonice 2025",
+    "subtitle": "Bridžový turnaj družstev 1. 5. - 4. 5. 2025"
+  },
+  "footer": {
+    "contact": "Kontakt",
+    "last_results": "Výsledky z roku 2024"
+  },
+  "menu": {
+    "tournament": "Turnaj",
+    "accommodation": "Ubytování",
+    "trips": "Výlety"
+  },
+  "content": {
+    "intro": "Bridžový klub Chaos zve všechny bridžisty na 16. ročník mezinárodního turnaje ve Slavonicích.<br><span class=\"highlight\">Vítáni jsou všichni hráči bez ohledu na bridžovou výkonnost.</span>",
+    "about": "O turnaji",
+    "tournament_details": "Hlavní týmový turnaj se hraje po tři večery - ve čtvrtek, v pátek a v sobotu.  V neděli dopoledne bude párový turnaj. Přesné schéma turnaje závisí na počtu družstev a bude zveřejněno po uzávěrce přihlášek.<br>Všechny hotely i hrací místnost jsou umístěny v domech ze 16. století na hlavním náměstí ve Slavonicích. Hrací sál se nově nachází v přízemí hotelu Besídka vedle restaurace. V případě vyššího počtu družstev bude druhý hrací sál v hotelu Pivoňka.",
+    "prizes": "Cenový fond turnaje tvoří výrobky z tradiční mařížské keramiky vytvářené na zakázku pro náš turnaj místními umělci.<br>Vítězné družstvo získá pozvání pro následující ročník - neplatí startovné a získá slevu na ubytování, podle zvoleného hotelu buďto částečnou, nebo až v plné výši.",
+    "registration": "Přihlášky",
+    "registration_details": "Hlásit se mohou čtyř i vícečlenná družstva, ale také páry či jednotliví hráči, kteří nemají svůj vlastní tým. Těmto hráčům pomohou sestavit tým organizátoři tak, aby si každý zahrál. Přihlášky posílejte prosím na email ",
+    "registration_details2":". Upřednostňujeme komunikaci emailem, lze však i volat tel. 777 804 046 (Jan Hlaváč) nebo 776 808 557 (Jan Lusk).<br>Poslední termín pro podání přihlášky je <b>14. 4. 2025</b>. Přihlášeným po tomto datu nemůžeme garantovat zařazení do turnaje ani zajištění ubytování.",
+    "program": "Program",
+    "accommodation": "Ubytování",
+    "accommodation_details": "Pro rezervaci ubytování prosím kontaktujte organizátory. Hotely se nacházejí na historickém hlavním náměstí a turnaj probíhá právě v nich. Všechny jsou plně rezervované pro potřeby našeho bridžového turnaje. V případě, že si zařídíte vlastní ubytování, bude vám účtováno vyšší startovné.<br><a href=\"/accommodation\">Seznam hotelů a penzionů na zvláštní stránce</a><br>Turnaj začíná až odpoledne ve čtvrtek 1.5., hotely ovšem máme rezervované už od 30.4. pro ty, kdo chtějí přijet o den dříve. Kdo by chtěl tuto možnost využít, dejte prosím vědět organizátorům.",
+    "entry_fee": "Startovné"
+  },
+  "program": {
+    "wednesday": "Středa 1.5",
+    "thursday": "Čtvrtek 1.5",
+    "friday": "Pátek 2.5",
+    "saturday": "Sobota 3.5",
+    "sunday": "Neděle 4.5",
+    "opening": "Zahájení turnaje",
+    "team_part1": "První část týmového turnaje",
+    "dinner_break": "(cca 40 rozdání s pauzou na večeři)",
+    "team_part2": "Druhá část týmového turnaje",
+    "team_final": "Finálová část týmového turnaje",
+    "pairs_tournament": "Ranní párový turnaj - jednokolový",
+    "main_pairs_tournament": "Hlavní párový turnaj",
+    "sunday_pairs_tournament": "Nedělní párový turnaj",
+    "closing_ceremony": "Slavnostní zakončení"
+  },
+  "entry_fee": {
+    "category": "Kategorie",
+    "with_accommodation": "Cena",
+    "without_accommodation": "Bez ubytování",
+    "adult": "nad 25 let",
+    "youth": "do 25 let (kategorie žák, dorost, junior)",
+    "note": "Ceny jsou uvedeny za osobu a zahrnují i vklady do párových turnajů."
+  },
+  "accommodation": {
+    "title": "Ubytování",
+    "intro": "Pro rezervaci ubytování prosím kontaktujte organizátory. Hotely se nacházejí na historickém hlavním náměstí a turnaj probíhá právě v nich. Všechny jsou plně rezervované pro potřeby našeho bridžového turnaje.",
+    "hotels": "Hotely",
+    "besidka": {
+      "name": "Besídka***",
+      "description": "Besídka je nejznámější hotel ve Slavonicích a středobod našeho turnaje s hracím sálem. Nabízí originálně navržené a zařízené dvoulůžkové pokoje většinou s možností přistýlek. Cena za ubytování zahrnuje snídani.",
+      "prices": {
+        "economy": "Economy",
+        "standard": "Standard",
+        "extra": "Extra",
+        "premium": "Premium",
+        "extra_bed": "Přistýlka"
+      },
+      "price_note": "Ceny za pokoj a noc při obsazení 1 os./ 2 os. Bohužel pokoje jsou bez snídaně. <b>Snídaně je za příplatek 190 Kč na den.</b>",
+      "link": "http://www.besidka.cz"
+    },
+    "pivonka": {
+      "name": "Pivoňka (dříve Arkáda)***",
+      "description": "Pěkný tříhvězdičkový hotel s nově rekonstruovanými pokoji. Nabízí jedno- až třílůžkové pokoje kategorií Standard, Superior a Deluxe většinou s možností přistýlek. Jeden z pokojů je s bezbariérovým přístupem. Cena je bez snídaně.",
+      "prices": {
+        "single": "Jednolůžkový",
+        "double": "Dvoulůžkový",
+        "triple": "Třílůžkový"
+      },
+      "prices_info": "Ubytování zde je individuální. Důvodem je nezájem ze strany hotelu.",
+      "price_note": "Ceny za pokoj a noc. Snídaně je za příplatek 200 Kč.",
+      "link": "http://www.hotelpivonka.cz"
+    },
+    "alfa": {
+      "name": "Alfa*",
+      "description": "Jednoduché ubytování v dolní části náměstí pro méně náročné. V nabídce jsou dvoulůžkové pokoje s příslušenstvím či dvou- a vícelůžkové pokoje s příslušenstvím společným pro celé patro.",
+      "prices": {
+        "with_facilities": "Spříslušenstvím<",
+        "without_facilities": "Bez příslušenství"
+      },
+      "price_note": "Ceny za osobu a noc.",
+      "info": "Stále v jednání.",
+      "link": "http://www.hotelalfa-slavonice.cz"
+    },
+    "private_accommodation": "Ubytování v soukromí",
+    "private_accommodation_description": "Kromě hotelů jsme pro vás rezervovali ubytování v&nbsp;soukromí u různých poskytovatelů na náměstí nebo v jeho bezprostřední blízkosti.",
+    "apartments_under_the_tower": {
+      "name": "Apartmány pod věží",
+      "description": "Stylové nadstandardní ubytování v apartmánech přímo naproti Besídce zařízené historickým nábytkem s vybavenou kuchyňkou a samostatnou koupelnou. Ubytování je bez snídaně. Penzion je striktně nekuřácký.",
+      "prices": {
+        "double": "Dvoulůžkový",
+        "extra": "Přistýlka",
+        "bed": "dle dohody"
+      },
+      "price_note": "Ceny za pokoj a noc.",
+      "link": "https://www.apartmanypodvezi.cz/"
+    },
+    "recreational_house_slavonice": {
+      "name": "Rekreační dům Slavonice - Markéta Neradová",
+      "description": "Rekreační dům Slavonice se nachází 100 metrů od náměstí. Pokoje vybavené TV mají vlastní koupelnu s vanou nebo sprchou. Rekreační dům Slavonice nabízí bezplatné Wi-Fi v celém objektu. V budově je rovněž k dispozici sdílená kuchyně. Ubytování je bez snídaně.",
+      "prices": {
+        "single": "Jednolůžkový",
+        "double": "Dvoulůžkový"
+      },
+      "price_note": "Ceny za pokoj a noc.",
+      "link": "https://neradova.com/rekreacni-dum-slavonice/"
+    },
+    "pension_slavonice": {
+      "name": "Penzion Slavonice - Karel Kunc",
+      "description": "Nedávno postavený penzion, který nabízí příjemné ubytování s rodinnou atmosférou kousek od historického centra Slavonic. Pro ubytované je k dispozici společná kuchyňka.",
+      "prices": {
+        "single": "Jednolůžkový",
+        "double": "Dvoulůžkový"
+      },
+      "price_note": "Ceny za pokoj a noc.",
+      "link": "http://www.penzionslavonice.cz/"
+    },
+    "house_at_giordanos": {
+      "name": "Dům u Giordanů",
+      "description": "Pěkné pokoje vybavené v retro stylu v těsném sousedství Besídky. Ubytování je bez snídaně.",
+      "prices": {
+        "double": "Dvoulůžkový",
+        "triple": "Třílůžkový",
+        "quadruple": "Čtyřlůžkový"
+      },
+      "price_note": "Ceny za pokoj a noc.",
+      "link": "https://www.dumugiordanu.cz/"
+    }
+  },
+  "excursions": {
+    "title": "Památky a tipy na výlety",
+    "slavonice": {
+      "title": "Město Slavonice",
+      "description1": "Slavonice jsou unikátní renesanční městečko na pomezí historických území Čech, Moravy a Rakouska, vzdálené přibližně 220km od Prahy a 180km od Vídně.",
+      "description2": "Vznik města se datuje kolem 12. století. Původně se jednalo o osadu, později o trhovou ves, která patřila pánům z Hradce. Ves se pomalu rozvíjela v opevněné město. Od 13. století také zřejmě vznikal propracovaný systém <a href=\"http://podzemi.shslavonice.cz/\">podzemních chodeb</a>, které je možné dnes navštívit.",
+      "description3": "Ve 14. století došlo k rozšíření starší osady o prostornější, mírně se svažující, tržiště směrem na západ (nám. Míru) a zároveň o tržiště směrem na východ v podobě rozšířené ulice (Horní nám.). Obě náměstí vytvořila středověká zástavba měšťanských domů postavených na dlouhých parcelách s úzkými dvory, jejichž zadní část zaplňovaly stodoly a hospodářská příslušenství.",
+      "description4": "Mezi těmito náměstími stojí kostel Nanebevzetí Panny Marie s dominující městskou věží, ze které je nádherný výhled na město i okolí.",
+      "description5": "Vrcholné období rozkvětu Slavonic patří do období renesance, která zde dospěla k typickým ukázkám tzv. české renesance, jejíž slohová forma v architektuře měšťanských domů je dána především použitím bohaté dekorace fasád: sgrafit, nástěnných maleb, plastických článků, štítů i atik.",
+      "description6": "Město bylo 31. 8. 1961 prohlášeno městskou památkovou rezervací a postupně dochází k jeho obnově. Od konce 50. let byly odkryty a restaurovány jednotlivé interiéry i fasády domů, které nejsou jen malebnou kulisou, ale živým dokladem výtvarného citu našich předků. Dlouhou dobu ale bylo město součástí uzavřeného hraničního pásma a jeho rozvoj byl omezen.",
+      "description7": "V současnosti je město centrem turistického ruchu, na západ od něj leží lesy a rybníky protkaná krajina České Kanady s hradem Landštejnem, na východ jižní Morava a Podyjí. Ze Slavonic vede množství cyklotras a turistických cest a dokonce i hipostezek."
+    },
+    "dacice": {
+      "title": "Zámek Dačice a město Dačice",
+      "description1": "Původní renesanční zámek Krajířů z Krajku získal dnešní empírový vzhled při přestavbě hlavního zámeckého průčelí, kterou navrhl roku 1816 vídeňský architekt Riedl. V 60. letech 19. století pak dokončil Friedrich Flor vnější vzhled zámku úpravou zahradního průčelí.",
+      "description2": "Prohlídková trasa představuje návštěvníkům především poslední držitele zámku, Salmy a Dalbergy. V zámku je umístěna část sbírek významného přírodovědce Bedřicha Dalberga, v prvním patře zámku jsou reprezentační pokoje včetně mimořádné patrové secesní knihovny, v níž je uloženo na 17 tisíc svazků. Součástí zámku je rozsáhlý anglický přírodní park s rybníkem Močidlem.",
+      "description3": "Město Dačice patří mezi nejstarší a nejhezčí moravské město, leží na návrší nad pravým břehem Moravské Dyje Pro velké bohatství historických staveb a jen málo narušený středověký půdorys byly vyhlášeny za památkovou zónu. Původní gotická zástavba byla v období renesance přestavěna Krajíři z Krajku. Kromě dominantní věže kostela sv. Vavřince se město může pochlubit také dvěma zámky z období renesance. Jeden z nich byl později přestavěn v empírovém stylu. V Dačicích byl vyroben roku 1843 první kostkový cukr na světě. Tuto událost připomíná památník na druhém náměstí.",
+      "description4": "Do Dačice je výborné vlakové spojení a cesta zpět pěšky podél Dyje stojí za výlet."
+    },
+    "telc": {
+      "title": "Telč",
+      "description": "Renesanční město pod ochranou UNESCO, které určitě stojí za to navštívit. Zámek a náměstí inspirované italskou renesancí, sgrafita měšťanských domů i městské opevnění, to je jen málo z toho, co by Vám určitě při návštěvě tohoto regionu nemělo uniknout.",
+      "distance": "Vzdálenost od Slavonic je asi 30km, existuje přímé vlakové spojení."
+    },
+    "landstejn": {
+      "title": "Hrad Landštejn",
+      "description1": "Jedna z nejzachovalejších ukázek středověkého fortifikačního systému. Nejstarší románská část hradu s palácem vestavěným mezi dvě obranné věže je v Čechách ojedinělá. Pozdější dostavba gotického opevnění s obytnou věží, donjonem, rozšířila hrad o další nádvoří.",
+      "description2": "Opěrný bod moravských Přemyslovců na neklidné zemské stezce do Vitorazska vznikl na počátku 13. století. Záhy jej získali Vítkovci, píšící se podle hradu jako páni z Landštejna. Nejstarší románskou část hradu s palácem vloženým mezi dvě obranné věže rozšířili dostavbou gotického opevnění s obytnou věží. Od roku 1381 drželi Landštejn Krajířové, kteří za téměř dvě stě let panování podstatně zesílili opevnění a vybudovali kolem pětiúhelného nádvoří výstavné renesanční paláce. Roku 1771 zapálil blesk jednu z věží a hrad vyhořel."
+    },
+    "golf": {
+      "title": "Golfové hřiště Nová Bystřice a Mnich",
+      "description": "Obě hřiště jsou vzdálena od Slavonic pouhých 27 km."
+    }
+  }
+
+}

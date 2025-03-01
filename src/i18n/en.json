@@ -1,0 +1,174 @@
+{
+    "header": {
+      "title": "Slavonice 2025",
+      "subtitle": "Bridge Tournament 1. 5. - 4. 5. 2025"
+    },
+    "menu": {
+      "tournament": "Tournament",
+      "accommodation": "Accommodation",
+      "trips": "Trips"
+    },
+  "footer": {
+    "contact": "Kontakt",
+    "last_results": "Last year result"
+  },
+
+  "content": {
+      "intro": "Chaosbridge Club invites all bridge players to the 16th annual international tournament in Slavonice.<br><span class=\"highlight\">All players are welcome regardless of bridge skill level.</span>",
+      "about": "About the Tournament",
+      "tournament_details": "The main team tournament is played over three evenings - Thursday, Friday and Saturday. On Sunday morning there will be a pairs tournament. The exact tournament schedule depends on the number of teams and will be published after the registration deadline.<br>All hotels and the playing room are located in 16th-century houses on the main square in Slavonice. The playing hall is newly located on the ground floor of the Besídka Hotel next to the restaurant. In the case of a higher number of teams, the second playing hall will be in the Pivoňka Hotel.",
+      "prizes": "The tournament prize fund consists of traditional Maříž ceramics made to order for our tournament by local artists.<br>The winning team receives an invitation for the following year - they do not pay the entry fee and receive a discount on accommodation, either partial or full, depending on the chosen hotel.",
+      "registration": "Registration",
+      "registration_details": "Four and more-member teams can register, <b>but also pairs or individual players who do not have their own team.</b> The organizers will help these players form a team so that everyone can play.<br>Please send registrations to email ",
+      "registration_details2":". We prefer communication by email, but you can also call tel. 777 804 046 (Jan Hlaváč) or 776 808 557 (Jan Lusk).<br>The deadline for registration is <strong>April 14, 2025</strong>. We cannot guarantee inclusion in the tournament or accommodation for those registered after this date.",
+      "program": "Program",
+      "accommodation": "Accommodation",
+      "accommodation_details": "For accommodation reservations, please contact the organizers. The hotels are located on the historic main square, and the tournament takes place in them. All are fully booked for the needs of our bridge tournament. If you arrange your own accommodation, you will be charged a higher entry fee.<br><a href=\"/accommodation\">List of hotels and guesthouses on a separate page</a><br>The tournament starts in the afternoon on Thursday, May 1st, but we have reserved hotels from April 30th for those who want to arrive a day earlier. If you would like to use this option, please let the organizers know.",
+      "entry_fee": "Entry Fee"
+    },
+    "program": {
+      "wednesday": "Wednesday 1.5",
+      "thursday": "Thursday 1.5",
+      "friday": "Friday 2.5",
+      "saturday": "Saturday 3.5",
+      "sunday": "Sunday 4.5",
+      "opening": "Tournament Opening",
+      "team_part1": "First part of the team tournament",
+      "dinner_break": "(approx. 40 boards with a dinner break)",
+      "team_part2": "Second part of the team tournament",
+      "team_final": "Final part of the team tournament",
+      "pairs_tournament": "Morning Pairs Tournament - single round",
+      "main_pairs_tournament": "Main Pairs Tournament",
+      "sunday_pairs_tournament": "Sunday Pairs Tournament",
+      "closing_ceremony": "Closing Ceremony"
+    },
+    "entry_fee": {
+      "category": "Category",
+      "with_accommodation": "Price",
+      "without_accommodation": "Without Accommodation",
+      "adult": "Over 25 years",
+      "youth": "Under 25 years (student, youth, junior)",
+      "note": "Prices are per person and include entry fees for pairs tournaments."
+    },
+
+  "accommodation": {
+    "title": "Accommodation",
+    "intro": "For accommodation reservations, please contact the organizers. The hotels are located on the historic main square, and the tournament takes place in them. All are fully booked for the needs of our bridge tournament.",
+    "hotels": "Hotels",
+    "besidka": {
+      "name": "Besídka***",
+      "description": "Besídka is the most famous hotel in Slavonice and the center of our tournament with a playing hall. It offers originally designed and furnished double rooms, mostly with extra beds. The price includes breakfast.",
+      "prices": {
+        "economy": "Economy",
+        "standard": "Standard",
+        "extra": "Extra",
+        "premium": "Premium",
+        "extra_bed": "Extra bed"
+      },
+      "price_note": "Prices are per room per night for 1 person/2 persons. Breakfast is not included. It's for 190 CZK per day.",
+      "link": "http://www.besidka.cz"
+    },
+    "pivonka": {
+      "name": "Pivoňka (formerly Arkáda)***",
+      "description": "A nice three-star hotel with newly renovated rooms. It offers single to triple rooms in Standard, Superior and Deluxe categories, mostly with extra beds. One of the rooms is wheelchair accessible. The price does not include breakfast.",
+      "prices": {
+        "single": "Singel",
+        "double": "Double",
+        "triple": "Triple"
+      },
+      "price_note": "Prices are per room per night. Breakfast is available for an extra 200 CZK.",
+      "prices_info": "This hotel is no more under our service. If you would like to stay here, please contact the hotel directly.",
+      "link": "http://www.hotelpivonka.cz"
+    },
+    "alfa": {
+      "name": "Alfa*",
+      "description": "Simple accommodation in the lower part of the square for less demanding guests. It offers double rooms with facilities or double and multi-bed rooms with shared facilities for the whole floor.",
+      "prices": {
+        "with_facilities": "with facilities",
+        "without_facilities": "w/o facilities"
+      },
+      "info": "We are still working on this.",
+      "price_note": "Prices are per person per night.",
+      "link": "http://www.hotelalfa-slavonice.cz"
+    },
+    "private_accommodation": "Private Accommodation",
+    "private_accommodation_description": "Besides these hotels we reserved for you a private accomodation at several providers on the main square or in the immediate vicinity.",
+    "apartments_under_the_tower": {
+      "name": "Apartments under the Tower",
+      "description": "Stylish, above-standard accommodation in apartments directly opposite Besídka, furnished with historic furniture, with an equipped kitchenette and a separate bathroom. Accommodation is without breakfast. The guesthouse is strictly non-smoking.",
+      "prices": {
+        "double": "Double",
+        "extra": "upon agreement",
+        "bed": "on agreement"
+      },
+      "price_note": "Prices are per room per night.",
+      "link": "https://www.apartmanypodvezi.cz/"
+    },
+    "recreational_house_slavonice": {
+      "name": "Recreational House Slavonice - Markéta Neradová",
+      "description": "Recreational House Slavonice is located 100 meters from the square. The rooms with TV have a private bathroom with a bath or shower. Recreational House Slavonice offers free Wi-Fi throughout the property. There is also a shared kitchen available in the building. Accommodation is without breakfast.",
+      "prices": {
+        "single": "Single",
+        "double": "Double"
+      },
+      "price_note": "Prices are per room per night.",
+      "link": "https://neradova.com/rekreacni-dum-slavonice/"
+    },
+    "pension_slavonice": {
+      "name": "Pension Slavonice - Karel Kunc",
+      "description": "A newly built guesthouse offering pleasant accommodation with a family atmosphere a short walk from the historic center of Slavonice. There is a shared kitchenette available for guests.",
+      "prices": {
+        "single": "Single",
+        "double": "Double"
+      },
+      "price_note": "Prices are per room per night.",
+      "link": "http://www.penzionslavonice.cz/"
+    },
+    "house_at_giordanos": {
+      "name": "House at Giordanos",
+      "description": "Nice rooms furnished in a retro style in the immediate vicinity of Besídka. Accommodation is without breakfast.",
+      "prices": {
+        "double": "Double",
+        "triple": "Triple",
+        "quadruple": "Quadruple"
+      },
+      "price_note": "Prices are per room per night.",
+      "link": "https://www.dumugiordanu.cz/"
+    },
+    "excursions": {
+      "title": "Sights and Tips for Trips",
+      "slavonice": {
+        "title": "The Town of Slavonice",
+        "description1": "Slavonice is a unique Renaissance town on the border of the historical regions of Bohemia, Moravia and Austria, about 220 km from Prague and 180 km from Vienna.",
+        "description2": "The town was founded around the 12th century. It was originally a settlement, later a market village, which belonged to the Lords of Hradec. The village slowly developed into a fortified town. From the 13th century, a sophisticated system of <a href=\"http://podzemi.shslavonice.cz/\">underground passages</a> was probably created, which can be visited today.",
+        "description3": "In the 14th century, the older settlement was extended by a more spacious, gently sloping marketplace to the west (Peace Square) and at the same time by a marketplace to the east in the form of an extended street (Upper Square). Both squares were created by medieval burgher houses built on long plots with narrow courtyards, the rear part of which was filled with barns and farm outbuildings.",
+        "description4": "Between these squares stands the Church of the Assumption of the Virgin Mary with the dominant town tower, from which there is a beautiful view of the town and the surrounding area.",
+        "description5": "The heyday of Slavonice belongs to the Renaissance period, which here reached typical examples of the so-called Czech Renaissance, whose stylistic form in the architecture of burgher houses is given mainly by the use of rich decoration of facades: sgraffito, wall paintings, plastic articles, gables and attics.",
+        "description6": "The town was declared a municipal monument reserve on August 31, 1961, and is gradually being restored. Since the end of the 1950s, individual interiors and facades of houses have been uncovered and restored, which are not just a picturesque backdrop, but a living proof of the artistic sense of our ancestors. For a long time, however, the town was part of the closed border zone and its development was limited.",
+        "description7": "Currently, the town is a center of tourism, west of it lie the forests and ponds intertwined landscape of Czech Canada with Landštejn Castle, east of it is South Moravia and Podyjí. There are many cycling routes and hiking trails and even equestrian trails leading from Slavonice.",
+        "links": "Useful Links"
+      },
+      "dacice": {
+        "title": "Dačice Castle and the Town of Dačice",
+        "description1": "The original Renaissance castle of the Krajířs of Krajek acquired its present Empire appearance during the reconstruction of the main castle facade, which was designed in 1816 by the Viennese architect Riedl. In the 1860s, Friedrich Flor completed the exterior of the castle by modifying the garden facade.",
+        "description2": "The tour route introduces visitors mainly to the last owners of the castle, the Salms and Dalbergs. The castle houses part of the collections of the important naturalist Bedřich Dalberg, on the first floor of the castle there are representative rooms including an extraordinary two-story Art Nouveau library, which contains about 17,000 volumes. The castle includes an extensive English natural park with the Močidlo pond.",
+        "description3": "The town of Dačice is one of the oldest and most beautiful towns in Moravia, lying on a hill above the right bank of the Moravian Dyje. Due to the great wealth of historical buildings and the little disturbed medieval layout, it was declared a conservation area. The original Gothic buildings were rebuilt in the Renaissance period by the Krajířs of Krajek. In addition to the dominant tower of the Church of St. Lawrence, the town can also boast two castles from the Renaissance period. One of them was later rebuilt in the Empire style. In Dačice, the first sugar cube in the world was produced in 1843. This event is commemorated by a monument on the second square.",
+        "description4": "There is an excellent train connection to Dačice and the return trip on foot along the Dyje is worth a trip."
+      },
+      "telc": {
+        "title": "Telč",
+        "description": "A Renaissance town under UNESCO protection, which is definitely worth a visit. The castle and the square inspired by the Italian Renaissance, the sgraffito of the burgher houses and the town fortifications, this is just a little of what you should definitely not miss when visiting this region.",
+        "distance": "Distance from Slavonice is about 30 km, there is a direct train connection."
+      },
+      "landstejn": {
+        "title": "Landštejn Castle",
+        "description1": "One of the best preserved examples of a medieval fortification system. The oldest Romanesque part of the castle with a palace built between two defensive towers is unique in Bohemia. The later construction of the Gothic fortifications with a residential tower, a donjon, extended the castle by another courtyard.",
+        "description2": "The stronghold of the Moravian Přemyslids on the restless land route to Vitorazsko was built at the beginning of the 13th century. It was soon acquired by the Witigons, who wrote themselves according to the castle as the Lords of Landštejn. The oldest Romanesque part of the castle with a palace inserted between two defensive towers was extended by the construction of Gothic fortifications with a residential tower. From 1381, Landštejn was held by the Krajířs, who during their nearly two hundred years of rule substantially strengthened the fortifications and built magnificent Renaissance palaces around the pentagonal courtyard. In 1771, lightning struck one of the towers and the castle burned down."
+      },
+      "golf": {
+        "title": "Golf Courses Nová Bystřice and Mnich",
+        "description": "Both courses are only 27 km from Slavonice."
+      }
+    }
+  }
+}
