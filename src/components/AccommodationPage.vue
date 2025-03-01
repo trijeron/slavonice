@@ -58,11 +58,11 @@
           <tbody>
           <tr>
             <th>{{ $t('accommodation.alfa.prices.with_facilities') }}</th>
-            <td>500&nbsp;Kč</td>
+            <td>520&nbsp;Kč</td>
           </tr>
           <tr>
             <th>{{ $t('accommodation.alfa.prices.without_facilities') }}</th>
-            <td>350&nbsp;Kč</td>
+            <td>370&nbsp;Kč</td>
           </tr>
           </tbody>
         </table>
